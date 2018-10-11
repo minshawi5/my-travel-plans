@@ -40,6 +40,11 @@ body {
     text-align: center;
 }
 
+
+.destination:hover h2 {
+    transform: rotate(@dog);
+}
+
 h2 {
     margin: 0;
     transform: rotate(-45deg);
